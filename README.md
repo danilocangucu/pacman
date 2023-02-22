@@ -1,4 +1,5 @@
 https://user-images.githubusercontent.com/97832010/219657869-ebc0112b-2f52-4190-ba06-7bd3a12726a6.mp4
+Play it here: https://tubular-salmiakki-886557.netlify.app/
 
 ## Description:
 Pacman in JavaScript, HTML and CSS.
